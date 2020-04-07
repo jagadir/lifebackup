@@ -1,0 +1,11 @@
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.deps.json
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.dll
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Infrastructure.pdb
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Core.dll
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\bin\Debug\netcoreapp2.2\LifeBackup.Core.pdb
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.csprojAssemblyReference.cache
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.AssemblyInfo.cs
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.csproj.CopyComplete
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.dll
+C:\Users\rjagadi\src\labs\LifeBackup\LifeBackup.Infrastructure\obj\Debug\netcoreapp2.2\LifeBackup.Infrastructure.pdb
