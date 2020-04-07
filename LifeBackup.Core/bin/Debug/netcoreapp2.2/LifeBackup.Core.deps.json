@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v2.2": {
       "LifeBackup.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Http": "2.2.2"
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "Newtonsoft.Json": "12.0.3"
         },
         "runtime": {
           "LifeBackup.Core.dll": {}
@@ -117,6 +118,14 @@
           }
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
       "System.Buffers/4.5.0": {},
       "System.ComponentModel.Annotations/4.5.0": {},
       "System.Memory/4.5.1": {},
@@ -206,6 +215,13 @@
       "sha512": "sha512-iZNkjYqlo8sIOI0bQfpsSoMTmB/kyvmV2h225ihyZT33aTp48ZpF6qYnXxzSXmHt8DpBAwBTX+1s1UFLbYfZKg==",
       "path": "microsoft.net.http.headers/2.2.0",
       "hashPath": "microsoft.net.http.headers.2.2.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
     },
     "System.Buffers/4.5.0": {
       "type": "package",

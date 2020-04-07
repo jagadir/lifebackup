@@ -6,5 +6,6 @@ namespace LifeBackup.Core.Files
 {
     public class DeleteFileResponse
     {
+        public int NoOfDeletedObjects { get; set; }
     }
 }

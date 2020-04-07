@@ -4761,7 +4761,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
-          "Microsoft.AspNetCore.Http": "2.2.2"
+          "Microsoft.AspNetCore.Http": "2.2.2",
+          "newtonsoft.json": "12.0.3"
         },
         "compile": {
           "bin/placeholder/LifeBackup.Core.dll": {}
